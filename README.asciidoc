@@ -2,7 +2,7 @@
 
 record my stury ES
 
-my blog([https://wangkekai.cn]).
+my [ blog ](https://wangkekai.cn) .
 
 == A Distributed RESTful Search Engine
 
